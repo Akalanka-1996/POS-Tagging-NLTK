@@ -7,6 +7,6 @@ NLTK provides several taggers. In this case, DefaultTagger(), UnigramTagger(), a
 
 Three text files have been generaed in the output folder along with the tagged texts that are previously in the 'corpus.text'
 
-Please find the official documentation of Tagging words in NLTK through below link.
+Please find the official documentation of Tagging words in NLTK through [this](https://www.nltk.org/book/ch05.html) link.
 
-https://www.nltk.org/book/ch05.html
+
